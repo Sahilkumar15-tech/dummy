@@ -1,0 +1,21 @@
+
+Parameter	Overriding	Over loading
+inheritance	must	Optional
+Signature	Same	Same name, diff args
+type	Run time	Compile
+Construction	Not possible	Possible
+
+
+**DIFFERENCE BETWEEN ABSTRACT CLASS VS INEHRITANCE CLASS VS
+FEATURE			
+CONSTRUCTOR			
+			
+CONCREATE METHOD			
+			
+
+Function 	Array List 	LinkedList
+add() ,remove ()	o(N)	O(n)
+addLast(), removeLast()	o(1)	O(1)
+addFirst(),removeFirst()	O(n)	O(1)
+get()	O(1)	O(n)
+getFirst(),getLast()	0(1)	O(1)
